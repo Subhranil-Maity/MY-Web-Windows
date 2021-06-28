@@ -1,0 +1,44 @@
+body{
+    background: url("../img/D.jpeg") no-repeat center center fixed;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.taskbar{
+    position: absolute;
+    bottom: 0px;
+    background-color: rgba(00, 00, 00, 0.6) ;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+#start:hover{
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.search{
+    margin-top: 15px;
+    background: none;
+    border: none;
+}
+.icoser{
+    margin-top: 11px;
+    
+}
+.ser{
+    margin-left: 1px;
+    padding-left: 10px;
+    width: 334px;
+    
+    background: white;
+}
+.icon{
+    height: 25px;
+    align-items: center;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+}
