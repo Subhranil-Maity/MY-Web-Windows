@@ -1,0 +1,11 @@
+{
+    "Os":{
+        "SystemDetails" : {
+            "Name" : "Windows On Web",
+            "verson" : "1.0.2v"
+        },
+        "livetimeValues": {
+            "IsBooted" : "No"
+        }
+    }
+}

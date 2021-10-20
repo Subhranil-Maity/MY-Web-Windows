@@ -24,8 +24,6 @@ store.addEventListener("click", () => {
 })
 
 function displayTime() {
-    let date = new Date();
-    let time = date.toLocaleTimeString();
     startfunc()
 }
 
